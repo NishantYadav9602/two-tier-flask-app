@@ -22,4 +22,3 @@ COPY . .
 
 # Specify the command to run your application
 CMD ["python", "app.py"]
-
